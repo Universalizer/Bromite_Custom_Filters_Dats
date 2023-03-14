@@ -6,7 +6,7 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
 https://easylist.to/easylist/easylist.txt
 https://easylist.to/easylist/easyprivacy.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
-https://raw.githubusercontent.com/stephenhawk8054/PrivacyExtended/main/privacy_extended.txt
+https://github.com/stephenhawk8054/PrivacyExtended/blob/main/privacy_extended.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
