@@ -1,6 +1,6 @@
-# ! Title: uBo_Plus_Custom_1.txt
-# ! File Name (Output Results): uBo_Plus_Custom_1.dat
-# ! Expires APPROX.: 1 day, Repo's auto updates daily: GMT+06 PM To 07 PM (UTC± +06 To 07 PM).
+# ! Title: uBo_Plus.txt
+# ! File Name (Output Results): uBo_Plus.dat
+# ! Expires APPROX.: 1 day, Repo's auto updates daily: Between GMT+ / UTC± 06 to 07 PM.
 # ! Last update (Repo's): %timestamp% check here https://github.com/Universalizer/Universaliser_Filters/releases
 # ! Homepage: https://github.com/Universalizer/Universaliser_Filters/
 # ! License: ©Universalizer https://github.com/Universalizer ©2023.
