@@ -1,0 +1,363 @@
+# ! Title: uBo_Plus_Custom_1.txt
+# ! File Name (Output Results): uBo_Plus_Custom_1.dat
+# ! Expires APPROX.: 1 day, Repo's auto updates daily: GMT+06 PM To 07 PM (UTC± +06 To 07 PM).
+# ! Last update (Repo's): %timestamp% check here https://github.com/Universalizer/Universaliser_Filters/releases
+# ! Homepage: https://github.com/Universalizer/Universaliser_Filters/
+# ! License: ©Universalizer https://github.com/Universalizer ©2023.
+# ! License for Rulesets converter '.dats' (i.e. for each filename.dat): For Home & Personal Usage Only.
+# ! Source: https://github.com/Universalizer/Universaliser_Filters/
+# ! Type: Experiments to be Stable, My Personal Usages.
+# ! Updated On: 2023/05/30 plus Automated Updates.
+# ! Created by: Universalizer's Ruleset Converter for ".dat".
+# ! Important Note: For global public use or usages at your own risk.
+# ! Limitations: No Liability, No Warranty.
+# ! Conditions: License and copyright notice, State changes, Disclose source, Same license.
+# ! License for Each Individual Filterlists in .dats: Respective Each Individual FilterLists Owner's License.
+
+# ! 1) Myself (Universalizer's) Basics Filterings, FilterLists
+# https://raw.githubusercontent.com/Universalizer/Universaliser_Filters/main/01_Basic_List_WildCards.txt
+# https://raw.githubusercontent.com/Universalizer/Universaliser_Filters/main/Basic_List.txt
+# https://raw.githubusercontent.com/Universalizer/Universaliser_Filters/main/Basic_List_HOST_Filterings.txt
+
+# ! 2) D3ward Toolz FilterLists
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+
+# ! Sloofy laundry based on d3ward,
+https://raw.githubusercontent.com/Sloofy/laundry/main/d3ward.txt
+
+# ! 3A) AdGuard SDNS & DNS FilterLists
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+
+https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
+https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
+https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
+
+https://filters.adtidy.org/extension/ublock/filters/15.txt
+https://filters.adtidy.org/extension/ublock/filters/15_optimized.txt
+
+# ! 3B) DNS Extras
+
+# ! https://filters.adtidy.org/windows/filters/15.txt
+# ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt
+# ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/fake.txt
+# ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/fake.txt
+
+# ! https://v.firebog.net/hosts/AdguardDNS.txt
+# ! https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt
+# ! https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
+# ! https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/DNS-BH-Malware-Domains.txt
+# ! https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ImmortalMalwareDomains.txt
+
+# ! 4) uBo (uBlock Origin) Core
+
+# ! Built-in (6/6) FilterLists
+
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
+
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+
+# ! 5) uBo (uBlock Origin) Collaborating 3rd Parties FilterLists
+
+# ! Ads (3/3)
+
+# ! AdGuard Base
+
+# ! ERROR loading filter: https://filters.adtidy.org/extension/ublock/filters/2.txt, Cannot update hosts filter file!, java.io.IOException: Buffer overflow!,
+
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/allowlist.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/allowlist_stealth.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/antiadblock.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/banner_sizes.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cname_adservers.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/content_blocker.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/css_extended.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_elemhide.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_extensions.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_url.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/replace.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/specific.txt
+
+# ! AdGuard Mobile Ads
+
+# ! ERROR loading filter: https://filters.adtidy.org/extension/ublock/filters/11.txt, Cannot update hosts filter file!, java.io.IOException: Buffer overflow!,
+
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/allowlist_web.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/antiadblock.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/css_extended.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/general_elemhide.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/general_extensions.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/general_url.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/replace.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_app.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_web.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/allowlist_app.txt
+
+# ! EasyList
+https://easylist.to/easylist/easylist.txt
+
+# ! Privacy (3/3)
+
+# ! AdGuard URL Tracking Protection, Already Used Above.
+
+# ! Block Outsider Intrusion into LAN,
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.txt
+
+# ! EasyPrivacy
+https://easylist.to/easylist/easyprivacy.txt
+
+# ! Malware domains (3/3)
+
+# ! Online Malicious URL Blocklist
+https://malware-filter.pages.dev/urlhaus-filter-online.txt
+
+# ! Phishing URL Blocklist
+https://malware-filter.gitlab.io/malware-filter/phishing-filter.txt
+
+# ! PUP Domains Blocklist
+https://malware-filter.gitlab.io/malware-filter/pup-filter.txt
+
+# ! Annoyances (5/7)
+
+# ! AdGuard Annoyances
+
+# ! ERROR loading filter: https://filters.adtidy.org/extension/ublock/filters/14.txt, Cannot update hosts filter file!, java.io.IOException: Buffer overflow!
+
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_allowlist.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_general.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_specific.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/MobileApp/sections/mobile-app_allowlist.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/MobileApp/sections/mobile-app_general.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/MobileApp/sections/mobile-app_specific.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Other/sections/annoyances.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Other/sections/self-promo.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Other/sections/tweaks.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/popups_allowlist.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/popups_general.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/popups_specific.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/push-notifications_allowlist.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/push-notifications_general.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/push-notifications_specific.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/subscriptions_allowlist.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/subscriptions_general.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/subscriptions_specific.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Widgets/sections/widgets.txt
+
+# ! AdGuard Social Media
+
+# ! ERROR loading filter: https://filters.adtidy.org/extension/ublock/filters/4.txt, Cannot update hosts filter file!, java.io.IOException: Buffer overflow!,
+
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/allowlist.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/css_extended.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/general_elemhide.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/general_extensions.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/general_url.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/popups.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/social_trackers.txt
+# ! https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/specific.txt
+
+# ! Anti-Facebook
+https://secure.fanboy.co.nz/fanboy-antifacebook.txt
+
+# ! EasyList Cookie
+# ! https://secure.fanboy.co.nz/fanboy-cookiemonster_ubo.txt
+
+# ! Important Note ; Avoid 2 FilterLists which conflicts d3ward benchmark test, as follows :-
+# ! Fanboy’s Annoyance FilterLists
+# ! Fanboy’s Social FilterLists
+# ! more details, at last line 363, 
+
+# ! uBlock filters – Annoyances
+https://github.com/uBlockOrigin/uAssets/blob/master/filters/annoyances.txt
+
+# ! Multipurpose (1/2)
+
+# ! Dan Pollock’s hosts file (d3ward un mentioned, so temporarily avoid)
+
+# ! Peter Lowe’s Ad and tracking server list
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+
+# ! 6) uBo (uBlock Origin) Core Extras Or Additional FilterLists
+
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badlists.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/legacy.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/ubol-filters.txt
+
+# ! 7) Brave Adblock-Lists + CNAME, FilterLists
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-android-specific.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-cookie-specific.txt
+
+# ! Brave CNAME
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-cname.txt
+
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt
+
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-social.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-specific.txt
+
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-sugarcoat.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-unbreak.txt
+
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/clean-urls.json
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/debounce.json
+
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/https-upgrade-exceptions-list.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/request-otr.json
+
+# ! Brave YT
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/yt-distracting.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/yt-recommended.txt
+
+# ! 8) ©©RUTQP (Remove URLs Tracking Query Parameters) a.k.a. ©©PPATF Privacy Protection > Anti-Tracking FilterLists, Mostly from AdGuard
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
+https://filters.adtidy.org/windows/filters/17.txt
+https://github.com/AdguardTeam/FiltersRegistry/blob/master/filters/filter_17_TrackParam/diff.txt
+
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TrackParamFilter/sections/allowlist.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TrackParamFilter/sections/general_url.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TrackParamFilter/sections/specific.txt
+
+https://filters.adtidy.org/extension/ublock/filters/17.txt
+https://filters.adtidy.org/extension/ublock/filters/17_optimized.txt
+
+# ! 9) Divested.dev blocklists,  FilterLists
+https://divested.dev/blocklists/Fingerprinting.ubl
+
+# ! 10A) Myself (Universalizer) recommends "Yokoffing FilterLists further" foremost recommending https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt, It RAW file size is approx. ~11 to ~12 MB, Converting to .dat file results ~17 to ~19 MB, my past commits and experienced, So important to note; it is not included in this current file. As Bromite Browser "filtersize" has maximum limit to 20 MB.
+
+# ! 10B) Yokoffing FilterLists Recommendings
+https://raw.githubusercontent.com/iam-py-test/uBlock-combo/main/list.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
+https://raw.githubusercontent.com/stephenhawk8054/PrivacyExtended/main/privacy_extended.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-ublock.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
+https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antimalware.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
+https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt
+https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt
+https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/global.txt
+
+# ! 11) Myself (Universalizer) Recommendation CNAME Cloaking Protection (Aggressive) FilterLists
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_original_trackers.txt
+
+https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+
+# ! 12) GDPR EU Commission's Recommendation, FilterList
+https://www.i-dont-care-about-cookies.eu/abp/
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GDPR%20451%20List.txt
+
+# ! Polish GDPR-Cookies Filters - Supplement for uBlock & AdGuard, # uBlock Origin & AdGuard supplement list for Polish GDPR-Cookies Filters., # Language: pl, # Tag: cookies, # License: CC BY-NC-SA 4.0, # Syntax: uBlock Origin Static,
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/cookies_filters/cookies_uB_AG.txt
+
+# ! ERROR loading filter: , Cannot update hosts filter file!, java.io.IOException: Buffer overflow! # ! Polish GDPR-Cookies Filters, # Filters that hide and block messages about cookies and GDPR/privacy policy on Polish websites., # Language: pl, # Tag: cookies, # License: CC BY-NC-SA 4.0, # Syntax: Adblock Plus, https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/cookies_filters/adblock_cookies.txt,
+
+# ! 13) Web Annoyances UltraLists, FilterLists Mostly from yourduskquibbles webannoyances :-
+# ! ~14MB https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt,
+# ! ~12MB https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-Ultra-AdBlock-Filter.txt,
+
+# ! Web Annoyances Ultralist, # Block annoying web elements and reclaim lost screen real estate to make the web more user friendly!, # Tag: annoyances, # License: CC BY-SA 4.0, # Syntax: uBlock Origin Static, 
+# ! Discarded https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+
+# ! Discarded https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/generic_filters.txt
+
+# ! Discarded https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/social_filters.txt
+
+# ! ERROR loading filter: Cannot update hosts filter file! java.io.IOException: Buffer overflow!, FOLLOWING FilterLists :-
+# ! https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/floating_filters.txt
+# ! https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/modal_filters.txt
+# ! https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt
+
+# ! 14) Annoyances Lists, FilterLists
+# ! ~3MB ERROR loading filter: https://filters.adtidy.org/extension/chromium/filters/14.txt, Cannot update hosts filter file! java.io.IOException: Buffer overflow!,
+# ! ~2MB ERROR loading filter: https://filters.adtidy.org/extension/chromium/filters/2.txt, Cannot update hosts filter file! java.io.IOException: Buffer overflow!,
+# ! ~3MB ERROR loading filter: https://filters.adtidy.org/extension/ublock/filters/14.txt Cannot update hosts filter file! java.io.IOException: Buffer overflow!,
+
+# ! Discarded https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/annoyances/Finland_annoyances.txt
+# ! Discarded https://raw.githubusercontent.com/LinuxLowell/chat-annoyances/master/chat-annoyances.txt
+# ! Discarded https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+# ! Discarded https://raw.githubusercontent.com/theel0ja/CrapBlock/master/crapblock-annoyances.txt
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList-2ndDivision.txt
+
+# Allow following 1 Filters
+# ! https://hg.adblockplus.org/facebookfilters/raw-file/default/fb_annoyances_full.txt
+
+# ! Discarded https://hg.adblockplus.org/facebookfilters/raw-file/default/fb_annoyances_newsfeed.txt
+
+# ! Discarded https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Fanboy-Annoyances-List.txt,
+# ! Discarded, ~2MB https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt,
+# ! ERROR loading filter: https://filters.adtidy.org/extension/ublock/filters/122_optimized.txt, Cannot update hosts filter file!, java.io.IOException: Buffer overflow!,
+
+# ! Discarded https://raw.githubusercontent.com/infinitytec/blocklists/master/annoyances.txt
+# ! Discarded https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/filterlist/other/MiscAnnoyance.txt
+# ! Discarded https://raw.githubusercontent.com/taylr/linkedinsanity/master/linkedinsanity.txt
+# ! Discarded https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoAnnoyance.txt
+
+# ! ERROR loading filter: https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PPB.txt, Cannot update hosts filter file!, java.io.IOException: Buffer overflow!,
+
+# ! Discarded https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PAF_arrows.txt
+# ! Discarded https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PAF_backgrounds_self-advertising.txt
+# ! Discarded https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PAF_contact_feedback_widgets.txt
+# ! Discarded https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PAF_newsletters.txt
+# ! Discarded https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PAF_other_widgets.txt
+# ! Discarded https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PAF_pop-ups.txt
+# ! Discarded https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PAF_scrolling_videos.txt
+# ! Discarded https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PAF_tagged_internal_links.txt
+# ! Discarded https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PAF_push.txt
+# ! Discarded https://adblock-thai.github.io/thai-ads-filter/annoyance.txt
+
+# ! Discarded https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/css_style_filters.txt
+
+# ! Discarded https://hg.adblockplus.org/youtubefilters/raw-file/default/yt_annoyances_other.txt
+
+# ! 15) YT Filters, FilterLists
+# ! https://raw.githubusercontent.com/thedoggybrad/Frame-Blocker-Filter/main/googleyt-exception.txt
+# ! https://raw.githubusercontent.com/kbinani/adblock-youtube-ads/master/signed.txt
+# ! https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adblock-YouTube-Ads.txt
+# ! https://raw.githubusercontent.com/WhyIsEvery4thYearAlwaysBad/anti-cancer-filter-lists/master/anti_trash_youtube.txt
+# ! https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Anudeep-Youtube.txt
+# ! https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Youtube%20hosts.txt
+# ! https://raw.githubusercontent.com/hadig/Focus-for-Youtube/master/focus4yt.txt
+# ! https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Henning-VanRaumle-Youtube.txt
+# ! https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/youtubeparsed
+# ! https://raw.githubusercontent.com/nickspaargaren/no-google/master/categories/youtube.txt
+# ! https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/youtube_wo_tonikaku_filter.txt
+# ! https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
+# ! https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt
+# ! https://raw.githubusercontent.com/DandelionSprout/adfilt/master/YouTubeEvenMorePureVideoExperience.txt
+# ! https://hg.adblockplus.org/youtubefilters/raw-file/default/yt_annoyances_full.txt
+
+# ! Discarded https://hg.adblockplus.org/youtubefilters/raw-file/default/yt_annoyances_comments.txt
+# ! Discarded https://hg.adblockplus.org/youtubefilters/raw-file/default/yt_annoyances_suggestions.txt
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/YouTubeYetEvenMorePureVideoExperience.txt
+
+# ! FINALIZE to Review Experiment for Stable.
+
+# ! Discarding after my many various experiments, Even for "Fanboy Anti-Social also", For more info : https://github.com/d3ward/toolz/issues/53#issuecomment-1463823187, # ! Convert following FilterLists to comment ; https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
