@@ -130,7 +130,7 @@ https://malware-filter.pages.dev/urlhaus-filter-online.txt
 https://malware-filter.gitlab.io/malware-filter/phishing-filter.txt
 
 # ! PUP Domains Blocklist
-https://malware-filter.gitlab.io/malware-filter/pup-filter.txt
+# unexpected status code 404 https://malware-filter.gitlab.io/malware-filter/pup-filter.txt
 
 # ! Annoyances (5/7)
 
@@ -260,9 +260,11 @@ https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.tx
 https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/global.txt
 
 # ! 11) Myself (Universalizer) Recommendation CNAME Cloaking Protection (Aggressive) FilterLists
-https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
-https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_original_trackers.txt
+
+# unexpected status code 404 following 3 repo
+# https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+# https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+# https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_original_trackers.txt
 
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 
