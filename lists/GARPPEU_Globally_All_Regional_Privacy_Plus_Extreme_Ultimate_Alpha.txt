@@ -1,0 +1,407 @@
+# COMMENT N.A (Not Applicable) https://raw.githubusercontent.com/Universalizer/Universaliser_Filters/main/01_Basic_List_WildCards.txt
+# COMMENT https://raw.githubusercontent.com/Universalizer/Universaliser_Filters/main/Basic_List.txt
+# COMMENT https://raw.githubusercontent.com/Universalizer/Universaliser_Filters/main/Basic_List_HOST_Filterings.txt
+
+# 1) uBo Built-in (6/6) : All uBlock filters
+
+# uBlock filters – Base + Ads Active
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-mobile.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+
+# AR (Already Raw.githubusercontent) https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
+# AR https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
+# AR https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
+# AR https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
+# AR https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
+# AR https://github.com/uBlockOrigin/uAssets/blob/master/filters/filters-mobile.txt
+
+# uBlock filters – Badware risks
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+# uBlock filters – Privacy
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+# uBlock filters – Quick fixes
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
+# uBlock filters – Resource abuse
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+# uBlock filters – Unbreak
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+
+# 1.5) uBo Extras Active
+# COMMENT https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badlists.txt
+# COMMENT https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/legacy.txt
+
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/ubol-filters.txt
+
+# 2) Ads (1/3)
+
+# AdGuard Base N.A. INSTEAD SDNS
+# 1 https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
+# 2 https://filters.adtidy.org/extension/chromium/filters/2.txt
+# 3 https://filters.adtidy.org/extension/ublock/filters/2.txt
+# 4 https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
+
+# AdGuard – Mobile Ads N.A. INSTEAD SDNS
+# https://filters.adtidy.org/extension/ublock/filters/11.txt
+
+# EasyList Active
+https://easylist.to/easylist/easylist.txt
+
+# 3) Privacy (3/3) Active, Total + 5 = 8
+
+# AdGuard URL Tracking Protection
+# Title: AdGuard URL Tracking filter + Additional (Optimized)
+https://filters.adtidy.org/extension/ublock/filters/17.txt
+https://filters.adtidy.org/extension/ublock/filters/17_optimized.txt
+
+# AdGuard Stealth mode has always offered an opportunity to remove tracking parameter
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
+
+# Tracking Protection Dedicating
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TrackParamFilter/sections/allowlist.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TrackParamFilter/sections/general_url.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TrackParamFilter/sections/specific.txt
+
+# Block Outsider Intrusion into LAN
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.txt
+
+# EasyPrivacy
+https://easylist.to/easylist/easyprivacy.txt
+
+# 4) Malware domains (3/3) Active but Waiting Final Test
+
+# Online Malicious URL Blocklist Query
+# COMMENT https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-online.txt
+
+# Phishing URL Blocklist
+# COMMENT https://malware-filter.gitlab.io/malware-filter/phishing-filter.txt
+# COMMENT https://malware-filter.gitlab.io/malware-filter/phishing-filter-dnscrypt-blocked-ips.txt
+
+# PUP Domains Blocklist
+# unexpectedunexpected status code 404 https://malware-filter.gitlab.io/malware-filter/pup-filter.txt
+
+# 5) Annoyances (2/7) : - 
+# AdGuard Annoyances N.A. Instead SDNS
+# COMMENT https://filters.adtidy.org/extension/ublock/filters/14.txt
+
+# AdGuard Social Media N.A. Instead SDNS
+# https://filters.adtidy.org/extension/ublock/filters/4.txt
+
+# EasyList Cookie Ineffective Reason Mostly
+# Cosmetic Unsupported by Bromite Built-In
+# AdBlocker.
+
+# Main Commenting https://secure.fanboy.co.nz/fanboy-cookiemonster_ubo.txt
+
+https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_allowlist.txt
+https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_allowlist_general_hide.txt
+https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_general_block.txt
+https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_general_hide.txt
+https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_international_specific_block.txt
+https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_international_specific_hide.txt
+https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_specific_ABP.txt
+https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_specific_block.txt
+https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_specific_hide.txt
+https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_specific_uBO.txt
+https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_thirdparty.txt
+
+# uBlock filters – Annoyances
+# COMMENT 
+
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+
+# 6) Multipurpose (1/2) Active but Waiting Final Test
+# Peter Lowe’s Ad and tracking server list
+# COMMENT https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
+
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+
+# 7) Regions, languages (36/36) 
+# Total 40+ Active, No Test Required Further
+
+# 1, ALB: Adblock List for Albania
+https://raw.githubusercontent.com/AnXh3L0/blocklist/master/albanian-easylist-addition/Albania.txt
+
+# 2, ara: Liste AR
+https://easylist-downloads.adblockplus.org/Liste_AR.txt
+
+# 3, BGR: Bulgarian Adblock list
+https://stanev.org/abp/adblock_bg.txt
+
+# 4, CHN: AdGuard Chinese (中文)
+https://filters.adtidy.org/extension/ublock/filters/224.txt
+
+# COMMENT , CHN: Easylist Chinese (中文) (Not AdGuard) https://easylist-downloads.adblockplus.org/easylistchina.txt
+# COMMENT , CJX's Annoyance List 
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+
+# 5, CZE, SVK: EasyList Czech and Slovak
+https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
+https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters_ublock.txt
+
+# 6, DEU: EasyList Germany
+https://easylist-downloads.adblockplus.org/easylistgermany.txt
+
+# 7, EST: Eesti saitidele kohandatud filter
+https://adblock.ee/list.php
+
+# 8, FIN: Adblock List for Finland
+https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt
+
+# 9, FRA: AdGuard Français
+https://filters.adtidy.org/extension/ublock/filters/16.txt
+
+# 10, GRC: Greek AdBlock Filter
+https://raw.githubusercontent.com/kargig/greek-adblockplus-filter/master/void-gr-filters.txt
+
+# 11, HRV, SRB: Dandelion Sprout's Serbo-Croatian filters
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/SerboCroatianList.txt
+
+# 12, HUN: hufilter
+https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter-ublock.txt
+
+# 13, IDN, MYS: ABPindo
+https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt
+
+# 14, IND, LKA, NPL: IndianList
+https://easylist-downloads.adblockplus.org/indianlist.txt
+
+# 15, IRN: PersianBlocker
+https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlocker.txt
+
+# 16, ISL: Icelandic ABP List
+https://adblock.gardar.net/is.abp.txt
+
+# 17, ISR: EasyList Hebrew
+https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
+https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew-uBO.txt
+
+# 18, ITA: EasyList Italy
+https://easylist-downloads.adblockplus.org/easylistitaly.txt
+# COMMENT https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
+
+# 19, JPN: AdGuard Japanese
+https://filters.adtidy.org/extension/ublock/filters/7.txt
+# https://filters.adtidy.org/ios/filters/7.txt
+
+# 20, KOR: List-KR
+https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filters-share/3rd_domains.txt
+https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filters-share/1st_domains.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/general_elemhide.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-uBO/specific_ELEMHIDE.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/general_url.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-uBO/general_url.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/specific_URL.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/specific_ELEMHIDE.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/allowlist.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/extended_css_ELEMHIDE.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/extended_css_INJECTION.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-uBO/specific_REDIRECT.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-uBO/extended_css_ELEMHIDE.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-uBO/extended_css_INJECTION.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-uBO/scriptlets.txt
+
+# unexpected status code 404 https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/lkscriptlet.txt
+
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/javascript.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-uBO/javascript.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-uBO/antiadblock.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-share/removeparam.txt
+https://raw.githubusercontent.com/List-KR/List-KR/master/filters-uBO/allowlist.txt
+
+# COMMENT 
+
+https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
+# COMMENT https://www.fanboy.co.nz/fanboy-korean.txt
+
+# 21, LTU: EasyList Lithuania
+https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
+
+# 22, LVA: Latvian List
+https://raw.githubusercontent.com/Latvian-List/adblock-latvian/master/lists/latvian-list.txt
+
+# 23, MKD: Macedonian adBlock Filters
+https://raw.githubusercontent.com/DeepSpaceHarbor/Macedonian-AdBlock-Filters/master/Filters
+
+# 24, NLD: EasyDutch
+
+# COMMENT https://easylist-downloads.adblockplus.org/easylistdutch.txt
+
+https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch.txt
+
+https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Anti-Adblock.txt
+https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_General.txt
+https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_Resources.txt
+https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_Whitelist.txt
+https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_first_party_Server.txt
+https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_third_party_Server.txt
+https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Hide_General.txt
+https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Hide_Specific.txt
+https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Hide_Whitelist.txt
+https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/No_uBlock_Filters.txt
+
+# 25, NOR, DNK, ISL: Dandelion Sprouts nordiske filtre
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianList.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFilters-NotBrave.txt
+
+# 26, POL: Oficjalne Polskie Filtry do uBlocka Origin
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_ublock.txt
+https://easylist-downloads.adblockplus.org/easylistpolish.txt
+
+# 27, POL: Oficjalne polskie filtry przeciwko alertom o Adblocku
+https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock.txt
+https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock-suplement.txt
+
+# 28, ROU: Romanian Ad (ROad) Block List Light
+https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt
+https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-ubo.txt
+
+# 29, RUS: RU AdList
+https://easylist-downloads.adblockplus.org/advblock.txt
+https://raw.githubusercontent.com/easylist/ruadlist/master/advblock/adservers.txt
+
+# ERROR loading filter: https://filters.adtidy.org/extension/ublock/filters/1.txt, Released WIFI lock and partial wake lock!, Cannot update hosts filter file!, java.io.IOException: Buffer overflow! SAME FOR https://adguard.com/en/filter-rules.html?id=1
+
+# 30, spa, por: AdGuard Spanish/Portuguese
+https://filters.adtidy.org/extension/ublock/filters/9.txt
+
+# 31, spa: EasyList Spanish
+https://easylist-downloads.adblockplus.org/easylistspanish.txt
+
+# 32, SVN: Slovenian List
+https://raw.githubusercontent.com/betterwebleon/slovenian-list/master/filters.txt
+
+# 33, SWE: Frellwit's Swedish Filter
+https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt
+https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Swedish/swe-ubo-filters.txt
+https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/i-dont-want-your-app.txt
+
+# 34, THA: EasyList Thailand
+https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
+https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/ublock.txt
+
+# 35, TUR: AdGuard Turkish
+https://filters.adtidy.org/extension/ublock/filters/13.txt
+
+# 36, VIE: ABPVN List
+https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_ublock.txt
+
+# uBo is enough , you just need to make sure
+# to not have conflict list like Easylist + 
+# Fanboy lists have issues together, I think
+# that this one is uBo bug mostly 
+# https://github.com/d3ward/toolz/issues/53
+
+# 8) Custom : d3Host List by d3ward + any other list you like
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
+
+https://raw.githubusercontent.com/Sloofy/laundry/main/d3ward.txt
+
+# 9) Custom FilterLists,
+
+# 9.1) DivestOS Comp Group RFP (Resist Finger Printing)
+https://divested.dev/blocklists/Fingerprinting.ubl
+
+# 9.2) Title: AdGuard SDNS filter
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+
+# 9.3) Dedicating
+https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
+https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt
+https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
+
+# 9.4 N.A) Title: AdGuard DNS filter (Optimized)
+# COMMENT https://filters.adtidy.org/extension/ublock/filters/15_optimized.txt
+
+# 9.5) yokoffing recommended FilterLists (14/15)
+https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
+https://raw.githubusercontent.com/stephenhawk8054/PrivacyExtended/main/privacy_extended.txt
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-ublock.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
+https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antimalware.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
+https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt
+https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt
+https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/global.txt
+
+# 9.6) Most CNAME (Clocking Protection, Aggressive) FilterLists (©UltraLists)
+
+# 9.6.1) AdGuard CNAME
+# https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+# https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+
+# unexpected status code 404 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_original_trackers.txt
+
+# 9.6.2) NextDNS CNAME
+https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+
+# 9.6.3) Brave CNAME
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-cname.txt
+
+# 9.7)  Brave FiltersLists
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-android-specific.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-cookie-specific.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-social.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-specific.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-sugarcoat.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-unbreak.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/clean-urls.json
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/debounce.json
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/https-upgrade-exceptions-list.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/request-otr.json
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/yt-distracting.txt
+https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/yt-recommended.txt
+
+# 9.8)  Cookies
+https://www.i-dont-care-about-cookies.eu/abp/
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GDPR%20451%20List.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
+
+# Temporary Avoid
+
+# BarbBlock
+# COMMENT https://raw.githubusercontent.com/paulgb/BarbBlock/main/blacklists/ublock-origin.txt
+# COMMENT https://raw.githubusercontent.com/paulgb/BarbBlock/main/blacklists/hosts-file.txt
+# COMMENT https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
+# COMMENT https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt
+
+# COMMENT https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
+# COMMENT https://secure.fanboy.co.nz/fanboy-newsletter.txt
+# COMMENT https://secure.fanboy.co.nz/fanboy-mobile-notifications.txt
+# COMMENT https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_chatapps_third-party.txt
+# COMMENT https://easylist-downloads.adblockplus.org/bitblock.txt
+# COMMENT https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
+
+# Additional FilterLists + Benchmarks
+
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+
+https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt
+
+https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
+
+https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
+
+https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
+
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/legacy.txt
+
+https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener-AffiliateTagAllowlist.txt
