@@ -390,13 +390,14 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 
-https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/14.txt
 
-https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
 
-https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/2.txt
 
-https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/11.txt
+
+https://filters.adtidy.org/extension/ublock/filters/3.txt
 
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 
@@ -495,3 +496,17 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilte
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 
 # Evaluate.
+
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
+
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
+
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
+
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
+
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
