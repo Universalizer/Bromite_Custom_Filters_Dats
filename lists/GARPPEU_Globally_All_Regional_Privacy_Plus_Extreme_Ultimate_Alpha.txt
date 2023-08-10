@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.tx
 # AR https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
 # AR https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
 # AR https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
-# AR https://github.com/uBlockOrigin/uAssets/blob/master/filters/filters-mobile.txt
+# AR https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-mobile.txt
 
 # uBlock filters – Badware risks
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
@@ -96,17 +96,17 @@ https://easylist.to/easylist/easyprivacy.txt
 
 # Main Commenting https://secure.fanboy.co.nz/fanboy-cookiemonster_ubo.txt
 
-https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_allowlist.txt
-https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_allowlist_general_hide.txt
-https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_general_block.txt
-https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_general_hide.txt
-https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_international_specific_block.txt
-https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_international_specific_hide.txt
-https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_specific_ABP.txt
-https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_specific_block.txt
-https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_specific_hide.txt
-https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_specific_uBO.txt
-https://github.com/easylist/easylist/blob/master/easylist_cookie/easylist_cookie_thirdparty.txt
+https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_allowlist.txt
+https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_allowlist_general_hide.txt
+https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_general_block.txt
+https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_general_hide.txt
+https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_international_specific_block.txt
+https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_international_specific_hide.txt
+https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_specific_ABP.txt
+https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_specific_block.txt
+https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_specific_hide.txt
+https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_specific_uBO.txt
+https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_thirdparty.txt
 
 # uBlock filters – Annoyances
 # COMMENT 
