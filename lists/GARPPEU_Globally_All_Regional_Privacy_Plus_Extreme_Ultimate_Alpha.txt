@@ -513,7 +513,7 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
 
 # Evaluate 2.
 
-https://filters.adtidy.org/extension/ublock/filters/15.txt
+# https://filters.adtidy.org/extension/ublock/filters/15.txt
 
 https://filters.adtidy.org/extension/ublock/filters/1.txt
 
