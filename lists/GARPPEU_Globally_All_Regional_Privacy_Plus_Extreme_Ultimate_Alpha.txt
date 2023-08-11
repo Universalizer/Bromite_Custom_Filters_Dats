@@ -519,7 +519,7 @@ https://filters.adtidy.org/extension/ublock/filters/1.txt
 
 https://filters.adtidy.org/extension/ublock/filters/4.txt
 
-https://gitlab.com/malware-filter/urlhaus-filter/-/raw/master/urlhaus-filter-online.txt
+# https://gitlab.com/malware-filter/urlhaus-filter/-/raw/master/urlhaus-filter-online.txt
 
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
 
