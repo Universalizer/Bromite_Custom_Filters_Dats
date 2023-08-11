@@ -510,3 +510,19 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
 
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
+
+# Evaluate 2.
+
+https://filters.adtidy.org/extension/ublock/filters/15.txt
+
+https://filters.adtidy.org/extension/ublock/filters/1.txt
+
+https://filters.adtidy.org/extension/ublock/filters/4.txt
+
+https://gitlab.com/malware-filter/urlhaus-filter/-/raw/master/urlhaus-filter-online.txt
+
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
+
+https://easylist-downloads.adblockplus.org/bitblock.txt
+
+https://easylist-downloads.adblockplus.org/cntblock.txt
