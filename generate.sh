@@ -59,9 +59,9 @@ mkdir -p logs
 echo "::endgroup::"
 
 # If the default list file exists, we overwrite it with the actual official list
-if [[ -f "lists/bromite-default.txt" ]]; then
+if [[ -f "lists/Bromite-Filters-Default-Daily.txt" ]]; then
     echo "::group::Downloading official list"
-    wget -O "lists/bromite-default.txt" "https://raw.githubusercontent.com/bromite/filters/master/lists.txt"
+    wget -O "lists/Bromite-Filters-Default-Daily.txt" "https://raw.githubusercontent.com/bromite/filters/master/lists.txt"
     echo "::endgroup::"
 fi
 
@@ -72,8 +72,8 @@ echo "::group::Cleanup"
 cleanup
 
 # Reset the downloaded list to the previous text, in case this is run locally
-if [[ -f "lists/bromite-default.txt" ]]; then
-    git restore lists/bromite-default.txt
+if [[ -f "lists/Bromite-Filters-Default-Daily.txt" ]]; then
+    git restore lists/Bromite-Filters-Default-Daily.txt
 fi
 
 echo "::endgroup::"
