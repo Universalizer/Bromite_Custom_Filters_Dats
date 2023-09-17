@@ -8,5 +8,5 @@ https://ublockorigin.github.io/uAssets/filters/privacy.txt
 https://ublockorigin.github.io/uAssets/filters/quick-fixes.txt
 https://ublockorigin.github.io/uAssets/filters/unbreak.txt
 
-# N.A.
-# https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+# Test
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
