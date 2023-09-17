@@ -1,0 +1,12 @@
+uBo_Built-in_2_FilterLists.txt
+
+# uBo Built-in (5/5) 2 FilterLists
+
+https://ublockorigin.github.io/uAssets/filters/filters.txt
+https://ublockorigin.github.io/uAssets/filters/badware.txt
+https://ublockorigin.github.io/uAssets/filters/privacy.txt
+https://ublockorigin.github.io/uAssets/filters/quick-fixes.txt
+https://ublockorigin.github.io/uAssets/filters/unbreak.txt
+
+# N.A.
+# https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
