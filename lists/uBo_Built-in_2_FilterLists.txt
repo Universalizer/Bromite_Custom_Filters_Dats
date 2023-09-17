@@ -9,4 +9,8 @@ https://ublockorigin.github.io/uAssets/filters/quick-fixes.txt
 https://ublockorigin.github.io/uAssets/filters/unbreak.txt
 
 # Test
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters-mobile.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/badlists.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/legacy.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/ubol-filters.txt
