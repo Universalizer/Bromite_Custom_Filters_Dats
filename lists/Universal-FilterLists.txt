@@ -1,0 +1,85 @@
+# ! Title ; Universal-FilterLists.txt
+
+# ! Content Category ; Filters Lists (Content Blocker Etc.)
+
+# ! File Name (Output Results) ; Universal-FilterLists.dat,
+
+# Update filter resource ; https://github.com/Universalizer/Bromite_Custom_Filters_Dats/releases/latest/download/Universal-FilterLists.dat
+
+# ! Homepage & Source ; https://github.com/Universalizer/Bromite_Custom_Filters_Dats
+
+# ! Started On: 2023/09/17 plus Automated Updates.
+
+# ! Latest update (Repo's) Released ; %timestamp% check here https://github.com/Universalizer/Bromite_Custom_Filters_Dats/releases
+
+# ! Expires Approximately ; Daily (1 Day), Repo's auto updates daily : Between GMT+ / UTC+16 to 17 Hour.
+
+# ! License ; © (c) Universalizer https://github.com/Universalizer © (c) 2023.
+
+# ! License for Rulesets converter '.dats' (i.e. for each filename.dat) usage : For Home & Personal Usage Only.
+
+# ! Type ; Experiments to be Stable, My Personal Usages.
+
+# ! Created by: Universalizer's Subresource_filter (Ruleset Converter) for output ".dat".
+
+# ! Important Note: For global public use or usages at your own risk.
+
+# ! Limitations: No Liability, No Warranty.
+
+# ! Conditions: License and copyright notice, State changes, Disclose source, Same license.
+
+# ! License for Each Individual Filterlists in .dats: Respective Each Individual FilterLists Owner's License i.e. uBo (uBlock Origin), AdguardFilters and all others applicable.
+========================
+# Name ; Universal-FilterLists.txt
+# Source ; https://github.com/Universalizer/Universal-FilterLists
+
+# Privacy
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt
+
+https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
+
+https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
+
+https://raw.githubusercontent.com/stephenhawk8054/PrivacyExtended/main/privacy_extended.txt
+
+# https://filters.adtidy.org/extension/ublock/filters/3.txt
+
+# URL Tracking Parameters
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+# https://github.com/DandelionSprout/adfilt/discussions/163?sort=old#discussioncomment-3956776
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+
+# Block third-party fonts
+
+https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
+
+# https://github.com/ryanbr/fanboy-adblock/raw/master/fanboy-antifonts.txt
+
+# Annoyances
+
+https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
+
+https://raw.githubusercontent.com/yokoffing/filterlists/main/youtube_clear_view.txt
+
+# Paywalls
+
+https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt
+
+https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt
+
+# Security
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-ublock.txt
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
+
+https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antimalware.txt
+
+# All-Purpose
+
+https://raw.githubusercontent.com/iam-py-test/uBlock-combo/main/list.txt
