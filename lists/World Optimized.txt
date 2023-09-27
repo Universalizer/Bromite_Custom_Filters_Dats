@@ -116,7 +116,7 @@ https://filters.adtidy.org/extension/ublock/filters/252_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/253_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/254_optimized.txt
 
-https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+# https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 https://divested.dev/blocklists/Fingerprinting.ubl
 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
