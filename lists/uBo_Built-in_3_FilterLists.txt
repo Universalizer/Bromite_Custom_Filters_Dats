@@ -14,8 +14,8 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.tx
 
 # N.A.
 # https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
-========================
-uBo_Built-in_2_FilterLists.txt
+# ========================
+# From Titled File Name ; uBo_Built-in_2_FilterLists.txt
 
 # uBo Built-in (5/5) 2 FilterLists
 
