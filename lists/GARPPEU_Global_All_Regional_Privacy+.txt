@@ -423,11 +423,11 @@ https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitt
 
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/cname_trackers.txt
 
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/css_extended.txt
+# Warning: 2 08:22:12 [Warning]: Failed to download https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/css_extended.txt: unexpected status code 404
 
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/css_extended.txt
+# Warning: 2 08:22:12 [Warning]: Failed to download https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/css_extended.txt: unexpected status code 404
 
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/css_extended.txt
+# Warning: 2 08:22:13 [Warning]: Failed to download https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/css_extended.txt: unexpected status code 404
 
 https://fanboy.co.nz/fanboy-cookiemonster.txt
 
@@ -469,7 +469,7 @@ https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
 
-https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt
+# Warning: 2 08:22:17 [Warning]: Failed to download https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt: unexpected status code 404
 
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/popups.txt
 
