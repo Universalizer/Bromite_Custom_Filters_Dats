@@ -29,7 +29,7 @@
 # ! Conditions: License and copyright notice, State changes, Disclose source, Same license.
 
 # ! License for Each Individual Filterlists in .dats: Respective Each Individual FilterLists Owner's License i.e. uBo (uBlock Origin), AdguardFilters and all others applicable.
-========================
+# ======================== 
 # Name ; Universal-FilterLists.txt
 # Source ; https://github.com/Universalizer/Universal-FilterLists
 
