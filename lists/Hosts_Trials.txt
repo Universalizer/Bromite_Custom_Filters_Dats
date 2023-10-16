@@ -1,0 +1,3 @@
+# Hosts Trials.txt
+
+https://someonewhocares.org/hosts/
