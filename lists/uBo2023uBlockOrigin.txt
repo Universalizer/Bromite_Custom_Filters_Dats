@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filte
 https://easylist.to/easylistgermany/easylistgermany.txt
 
 # 6) ee: Eesti saitidele kohandatud filter
-https://adblock.ee/list.php
+https://adblock.ee/list.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 
 # 7) eg sa ma dz: Liste AR
 https://easylist-downloads.adblockplus.org/liste_ar.txt
