@@ -57,9 +57,9 @@ https://filters.adtidy.org/extension/ublock/filters/3.txt
 
 # Title: AdGuard URL Tracking filter Full Filtrrs Only + Additional (Optimized N.A.)
 https://filters.adtidy.org/extension/ublock/filters/17.txt
-https://filters.adtidy.org/extension/chromium/filters/17.txt
-https://filters.adtidy.org/extension/android-content-blocker/filters/17.txt
-https://filters.adtidy.org/extension/firefox/filters/17.txt
+# https://filters.adtidy.org/extension/chromium/filters/17.txt
+# https://filters.adtidy.org/extension/android-content-blocker/filters/17.txt
+# https://filters.adtidy.org/extension/firefox/filters/17.txt
 
 # https://filters.adtidy.org/extension/ublock/filters/17_optimized.txt
 # https://filters.adtidy.org/extension/chromium/filters/17_optimized.txt
@@ -168,10 +168,9 @@ https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_
 https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_specific_uBO.txt
 https://github.com/easylist/easylist/raw/master/easylist_cookie/easylist_cookie_thirdparty.txt
 # ========================
-
 # 7) Regions, languages (36/36) 
 # Total 40+ Active, No Test Required Further, Early 2023.
-
+# ----------------------------------
 # 1, ALB: Adblock List for Albania
 https://raw.githubusercontent.com/AnXh3L0/blocklist/master/albanian-easylist-addition/Albania.txt
 
@@ -188,6 +187,7 @@ https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt
 
 # COMMENT , CHN: Easylist Chinese (中文) (AdGuard filter considered in uBlockOrigin, So N.A.) https://easylist-downloads.adblockplus.org/easylistchina.txt
 # COMMENT , CJX's Annoyance List 
+
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 
 # 5, CZE, SVK: EasyList Czech and Slovak
@@ -197,7 +197,7 @@ https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filte
 # 6, DEU: EasyList Germany
 https://easylist-downloads.adblockplus.org/easylistgermany.txt
 https://easylist.to/easylistgermany/easylistgermany.txt
-https://filters.adtidy.org/extension/ublock/filters/6_optimized.txt
+# https://filters.adtidy.org/extension/ublock/filters/6_optimized.txt
 
 # https://filters.adtidy.org/extension/chromium/filters/6_optimized.txt
 
@@ -219,7 +219,7 @@ https://filters.adtidy.org/extension/ublock/filters/16_optimized.txt
 
 # 10, GRC: Greek AdBlock Filter
 https://www.void.gr/kargig/void-gr-filters.txt
-https://raw.githubusercontent.com/kargig/greek-adblockplus-filter/master/void-gr-filters.txt
+# https://raw.githubusercontent.com/kargig/greek-adblockplus-filter/master/void-gr-filters.txt
 
 # 11, HRV, SRB: Dandelion Sprout's Serbo-Croatian filters
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/SerboCroatianList.txt
@@ -323,7 +323,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianList.tx
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
 
 # https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_ublock.txt
-https://easylist-downloads.adblockplus.org/easylistpolish.txt
+# https://easylist-downloads.adblockplus.org/easylistpolish.txt
 
 # 27, POL: Oficjalne polskie filtry przeciwko alertom o Adblocku
 https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock.txt
@@ -359,7 +359,7 @@ https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/i-d
 # 34, THA: EasyList Thailand
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
 # https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/ublock.txt
-https://adblock-thai.github.io/thai-ads-filter/annoyance.txt
+# https://adblock-thai.github.io/thai-ads-filter/annoyance.txt
 
 # 35, TUR: AdGuard Turkish
 https://filters.adtidy.org/extension/ublock/filters/13_optimized.txt
@@ -378,15 +378,16 @@ https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_ublock.txt
 # Additional Regions
 https://raw.githubusercontent.com/yecarrillo/adblock-colombia/master/adblock_co.txt
 
-https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Colombia.txt
+# https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Colombia.txt
 
 https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt
 
 # 8) Custom : d3Host List by d3ward + any other list you like
-# https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+
 https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock
 
-https://raw.githubusercontent.com/Sloofy/laundry/main/d3ward.txt
+# https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+# https://raw.githubusercontent.com/Sloofy/laundry/main/d3ward.txt
 
 # 9) Custom FilterLists,
 
@@ -406,7 +407,7 @@ https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/e
 
 # https://filters.adtidy.org/extension/chromium/filters/15_optimized.txt
 
-# 9.5) yokoffing recommended FilterLists (14/15)
+# 9.5) yokoffing recommended FilterLists
 # 3) Name ; Universal-FilterLists.txt
 # Source ; https://github.com/Universalizer/Universal-FilterLists
 # 3) From Yokoffing's Recommendation
@@ -503,7 +504,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList-2
 
 # Additional FilterLists + Benchmarks
 
-https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+# already conflict uBo list and available in some browser https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 
 # https://filters.adtidy.org/extension/ublock/filters/3.txt
 
@@ -534,13 +535,13 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/s
 
 # https://fanboy.co.nz/fanboy-cookiemonster.txt
 
-https://fanboy.co.nz/fanboy-antifonts.txt
+# https://fanboy.co.nz/fanboy-antifonts.txt
 
 # https://fanboy.co.nz/enhancedstats.txt
 
 # https://fanboy.co.nz/fanboy-indian.txt
 
-https://easylist.to/easylist/fanboy-social.txt
+# https://easylist.to/easylist/fanboy-social.txt
 
 # https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/general_elemhide.txt
 
@@ -572,7 +573,7 @@ https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 
 # https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/social_trackers.txt
 
-https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
+# https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
 
 # https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/specific.txt
 
@@ -613,7 +614,7 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilte
 # https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 # https://fanboy.co.nz/fanboy-annoyance.txt
 
-https://filters.adtidy.org/extension/ublock/filters/122_optimized.txt
+# https://filters.adtidy.org/extension/ublock/filters/122_optimized.txt
 
 https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
 # ----------------------------------
