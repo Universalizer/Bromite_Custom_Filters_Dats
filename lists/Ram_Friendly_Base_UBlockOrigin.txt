@@ -1,8 +1,8 @@
-# Title ; ⚡️Ram_Friendly_Base_UBlockOrigin.txt
+# Title ; Ram_Friendly_Base_UBlockOrigin.txt
 
 # ! Content Category ; Filters Lists (Content Blocker Etc.)
 
-# ! File Name (Output Results) ; ⚡️Ram_Friendly_Base_UBlockOrigin.dat
+# ! File Name (Output Results) ; Ram_Friendly_Base_UBlockOrigin.dat
 
 # ! Update filter resource ; https://github.com/Universalizer/Universal_DNS_Master/releases/latest/download/Universal-FilterLists.dat
 
