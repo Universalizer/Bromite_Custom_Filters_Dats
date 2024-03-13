@@ -1,0 +1,102 @@
+# Filename Input ; ⚡️Ram_Friendly_Base_UBlockOrigin.txt
+# Filename Output Results ; ⚡️Ram_Friendly_Base_UBlockOrigin.dat
+Homepage and Source ; https://github.com/Universalizer/Universal_DNS_Master/releases
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+
+https://ublockorigin.github.io/uAssets/filters/annoyances.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-cookies.txt
+
+https://ublockorigin.github.io/uAssets/filters/annoyances-cookies.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-others.txt
+
+https://ublockorigin.github.io/uAssets/filters/annoyances-others.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badlists.txt
+
+https://ublockorigin.github.io/uAssets/filters/badlists.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+
+https://ublockorigin.github.io/uAssets/filters/badware.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+
+https://ublockorigin.github.io/uAssets/filters/filters.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-mobile.txt
+
+https://ublockorigin.github.io/uAssets/filters/filters-mobile.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.txt
+
+https://ublockorigin.github.io/uAssets/filters/lan-block.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/legacy.txt
+
+https://ublockorigin.github.io/uAssets/filters/legacy.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+
+https://ublockorigin.github.io/uAssets/filters/privacy.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
+
+https://ublockorigin.github.io/uAssets/filters/quick-fixes.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+
+https://ublockorigin.github.io/uAssets/filters/resource-abuse.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/ubo-link-shorteners.txt
+
+# Completely New 2023 - 2024
+https://ublockorigin.github.io/uAssets/filters/ubo-link-shorteners.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/ubol-filters.txt
+
+https://ublockorigin.github.io/uAssets/filters/ubol-filters.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+
+https://ublockorigin.github.io/uAssets/filters/unbreak.txt
+# ---------------------------------- 
+# uBlockOrigin,uAssets,tree,master,thirdparties,easylist
+
+https://ublockorigin.github.io/uAssets/thirdparties/easylist-annoyances.txt
+
+https://ublockorigin.github.io/uAssets/thirdparties/easylist-chat.txt
+
+https://ublockorigin.github.io/uAssets/thirdparties/easylist-cookies.txt
+
+https://ublockorigin.github.io/uAssets/thirdparties/easylist-newsletters.txt
+
+https://ublockorigin.github.io/uAssets/thirdparties/easylist-notifications.txt
+
+https://ublockorigin.github.io/uAssets/thirdparties/easylist-social.txt
+
+https://ublockorigin.github.io/uAssets/thirdparties/easylist.txt
+
+https://ublockorigin.github.io/uAssets/thirdparties/easyprivacy.txt
+# ---------------------------------- 
+# uBlockOrigin,uAssets,tree,master,thirdparties,pgl.yoyo.org,as
+
+https://github.com/uBlockOrigin/uAssets/raw/master/thirdparties/pgl.yoyo.org/as/serverlist
+
+# uBlockOrigin,uAssets,tree,master,thirdparties,publicsuffix.org,list
+https://github.com/uBlockOrigin/uAssets/raw/master/thirdparties/publicsuffix.org/list/effective_tld_names.dat
+
+# uBlockOrigin,uAssets,tree,master,thirdparties,urlhaus-filter
+https://github.com/uBlockOrigin/uAssets/raw/master/thirdparties/urlhaus-filter/urlhaus-filter-online.txt
