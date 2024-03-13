@@ -1,6 +1,35 @@
-# Filename Input ; ⚡️Ram_Friendly_Base_UBlockOrigin.txt
-# Filename Output Results ; ⚡️Ram_Friendly_Base_UBlockOrigin.dat
-Homepage and Source ; https://github.com/Universalizer/Universal_DNS_Master/releases
+# Title ; ⚡️Ram_Friendly_Base_UBlockOrigin.txt
+
+# ! Content Category ; Filters Lists (Content Blocker Etc.)
+
+# ! File Name (Output Results) ; ⚡️Ram_Friendly_Base_UBlockOrigin.dat
+
+# ! Update filter resource ; https://github.com/Universalizer/Universal_DNS_Master/releases/latest/download/Universal-FilterLists.dat
+
+# ! Homepage and Source ; https://github.com/Universalizer/Universal_DNS_Master/
+
+# ! Started On: 2024/03/13 plus Automated Updates.
+
+# ! Latest update (Repo's) Released ; %timestamp% check here https://github.com/Universalizer/Universal_DNS_Master/releases
+
+# ! Expires Approximately ; Daily (1 Day), Repo's auto updates daily : Between GMT+ / UTC+16 to 17 Hour.
+
+# ! License ; © (c) Universalizer https://github.com/Universalizer © (c) 2024.
+
+# ! License for Rulesets converter '.dats' (i.e. for each filename.dat) usage : For Home & Personal Usage Only.
+
+# ! Type ; Experiments to be Stable, My Personal Usages.
+
+# ! Created by: Universalizer's Subresource_filter (Ruleset Converter) for output ".dat".
+
+# ! Important Note: For global public use or usages at your own risk.
+
+# ! Limitations: No Liability, No Warranty.
+
+# ! Conditions: License and copyright notice, State changes, Disclose source, Same license.
+
+# ! License for Each Individual Filterlists in .dats: Respective Each Individual FilterLists Owner's License i.e. uBo (uBlock Origin), AdguardFilters and all others applicable.
+# ======================== 
 
 # Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
 
@@ -60,11 +89,6 @@ https://ublockorigin.github.io/uAssets/filters/quick-fixes.txt
 
 https://ublockorigin.github.io/uAssets/filters/resource-abuse.txt
 
-# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/ubo-link-shorteners.txt
-
-# Completely New 2023 - 2024
-https://ublockorigin.github.io/uAssets/filters/ubo-link-shorteners.txt
-
 # Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/ubol-filters.txt
 
 https://ublockorigin.github.io/uAssets/filters/ubol-filters.txt
@@ -72,8 +96,13 @@ https://ublockorigin.github.io/uAssets/filters/ubol-filters.txt
 # Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
 
 https://ublockorigin.github.io/uAssets/filters/unbreak.txt
+
+# Old link https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/ubo-link-shorteners.txt
+
+# Completely New 2023 - 2024
+https://ublockorigin.github.io/uAssets/filters/ubo-link-shorteners.txt
 # ---------------------------------- 
-# uBlockOrigin,uAssets,tree,master,thirdparties,easylist
+# thirdparties_ easylist
 
 https://ublockorigin.github.io/uAssets/thirdparties/easylist-annoyances.txt
 
@@ -91,12 +120,12 @@ https://ublockorigin.github.io/uAssets/thirdparties/easylist.txt
 
 https://ublockorigin.github.io/uAssets/thirdparties/easyprivacy.txt
 # ---------------------------------- 
-# uBlockOrigin,uAssets,tree,master,thirdparties,pgl.yoyo.org,as
+# thirdparties_ pgl.yoyo.org_ as
 
 https://github.com/uBlockOrigin/uAssets/raw/master/thirdparties/pgl.yoyo.org/as/serverlist
 
-# uBlockOrigin,uAssets,tree,master,thirdparties,publicsuffix.org,list
+# thirdparties_ publicsuffix.org_ list
 https://github.com/uBlockOrigin/uAssets/raw/master/thirdparties/publicsuffix.org/list/effective_tld_names.dat
 
-# uBlockOrigin,uAssets,tree,master,thirdparties,urlhaus-filter
+# thirdparties_ urlhaus-filter
 https://github.com/uBlockOrigin/uAssets/raw/master/thirdparties/urlhaus-filter/urlhaus-filter-online.txt
