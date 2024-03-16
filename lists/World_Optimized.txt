@@ -126,7 +126,7 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 
 https://www.i-dont-care-about-cookies.eu/abp/
 
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt
+# https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt; unexpected status code 404
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-ublock.txt
 
 https://ublockorigin.github.io/uAssets/filters/filters.txt
