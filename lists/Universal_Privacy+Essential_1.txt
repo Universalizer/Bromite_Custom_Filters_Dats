@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all
 # ========================
 # Privacy
 
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt
+# https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt; unexpected status code 404
 
 https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
 
@@ -174,10 +174,10 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_web.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ExperimentalFilter/sections/English/specific_web_sites.txt
 
-https://github.com/AdguardTeam/AdguardFilters/blob/master/ExperimentalFilter/sections/Other/chrome.txt
+# https://github.com/AdguardTeam/AdguardFilters/blob/master/ExperimentalFilter/sections/Other/chrome.txt; unexpected status code 404
 
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ExperimentalFilter/sections/Other/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ExperimentalFilter/sections/Other/windows.txt
+# https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ExperimentalFilter/sections/Other/windows.txt; unexpected status code 404
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/allowlist.txt
 https://github.com/AdguardTeam/AdguardFilters/blob/master/BaseFilter/sections/allowlist_stealth.txt
@@ -472,8 +472,8 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/Experimental
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ExperimentalFilter/sections/Mobile/filter.txt
 
 # ExperimentalFilter/sections/Other/
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ExperimentalFilter/sections/Other/android.txt
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ExperimentalFilter/sections/Other/chrome.txt
+# https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ExperimentalFilter/sections/Other/android.txt; unexpected status code 404
+# https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ExperimentalFilter/sections/Other/chrome.txt; unexpected status code 404
 
 # Duplicate https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ExperimentalFilter/sections/Other/filter.txt
 # Duplicate https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ExperimentalFilter/sections/Other/windows.txt
