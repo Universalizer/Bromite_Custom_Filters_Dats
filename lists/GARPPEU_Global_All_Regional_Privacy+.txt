@@ -230,18 +230,19 @@ https://raw.githubusercontent.com/DeepSpaceHarbor/Macedonian-AdBlock-Filters/mas
 
 # COMMENT https://easylist-downloads.adblockplus.org/easylistdutch.txt
 
-https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch.txt
+# https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch.txt
 
-https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Anti-Adblock.txt
-https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_General.txt
-https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_Resources.txt
-https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_Whitelist.txt
-https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_first_party_Server.txt
-https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_third_party_Server.txt
-https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Hide_General.txt
-https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Hide_Specific.txt
-https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Hide_Whitelist.txt
-https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/No_uBlock_Filters.txt
+# https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Anti-Adblock.txt
+# https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_General.txt
+# https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_Resources.txt
+# https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_Whitelist.txt
+# https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_first_party_Server.txt
+#https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Block_third_party_Server.txt
+# https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Hide_General.txt
+# https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Hide_Specific.txt
+# https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Hide_Whitelist.txt
+# https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/No_uBlock_Filters.txt; unexpected status code 404
+https://easydutch-ubo.github.io/EasyDutch/EasyDutch.all.txt
 
 # 25, NOR, DNK, ISL: Dandelion Sprouts nordiske filtre
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianList.txt
