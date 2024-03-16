@@ -42,7 +42,7 @@ https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-pay
 https://raw.githubusercontent.com/liamengland1/miscfilters/master/antipaywall.txt
 https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/global.txt
 # New Recommended
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt
+# https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt; unexpected status code 404
 https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/youtube_clear_view.txt
 
