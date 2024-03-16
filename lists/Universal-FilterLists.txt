@@ -35,7 +35,7 @@
 
 # Privacy
 
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt
+# https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt; unexpected status code 404
 
 https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
 
