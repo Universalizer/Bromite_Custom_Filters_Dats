@@ -202,7 +202,7 @@ https://easylist.to/easylistgermany/easylistgermany.txt
 # https://filters.adtidy.org/extension/chromium/filters/6_optimized.txt
 
 # 7, EST: Eesti saitidele kohandatud filter
-https://adblock.ee/list.php
+# [Warning]: Failed to download https://adblock.ee/list.php: Get "https://adblock.ee/list.php": dial tcp 51.255.198.110:443: i/o timeout (Client.Timeout exceeded while awaiting headers)
 https://gurud.ee/ab.txt
 
 # 8, FIN: Adblock List for Finland
@@ -310,7 +310,8 @@ https://easydutch-ubo.github.io/EasyDutch/EasyDutch.txt
 # https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Hide_Specific.txt
 # https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/Hide_Whitelist.txt
 
-https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/gh-pages/EasyDutch.all.txt
+# https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/gh-pages/EasyDutch.all.txt
+https://easydutch-ubo.github.io/EasyDutch/EasyDutch.all.txt
 
 # Warning: 5 21:21:20 [Warning]: Failed to download https://raw.githubusercontent.com/EasyDutch-uBO/EasyDutch/main/EasyDutch/No_uBlock_Filters.txt: unexpected status code 404
 
@@ -354,7 +355,7 @@ https://raw.githubusercontent.com/betterwebleon/slovenian-list/master/filters.tx
 # 33, SWE: Frellwit's Swedish Filter
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt
 # https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Swedish/swe-ubo-filters.txt
-https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/i-dont-want-your-app.txt
+# https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/i-dont-want-your-app.txt; unexpected status code 404
 
 # 34, THA: EasyList Thailand
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
@@ -413,7 +414,7 @@ https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/e
 # 3) From Yokoffing's Recommendation
 
 ## 1) Privacy (4/4)
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt
+# https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt; unexpected status code 404
 https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
 https://raw.githubusercontent.com/stephenhawk8054/PrivacyExtended/main/privacy_extended.txt
