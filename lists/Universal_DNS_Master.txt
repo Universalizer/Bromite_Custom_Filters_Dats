@@ -276,7 +276,7 @@ https://big.oisd.nl/
 https://github.com/AdguardTeam/HostlistsRegistry/raw/main/filters/general/filter_27_OISD_Blocklist_Big/filter.txt
 
 https://adaway.org/hosts.txt
-https://github.com/AdguardTeam/HostlistsRegistry/raw/main/filters/general/filter_2_AdAwayDefaultFilter/filter.txt
+# https://github.com/AdguardTeam/HostlistsRegistry/raw/main/filters/general/filter_2_AdAwayDefaultFilter/filter.txt; unexpected status code 404
 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://github.com/AdguardTeam/HostlistsRegistry/raw/main/filters/general/filter_33_StevenBlack/filter.txt
