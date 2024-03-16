@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filte
 https://easylist.to/easylistgermany/easylistgermany.txt
 
 # 6) ee: Eesti saitidele kohandatud filter
-https://adblock.ee/list.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+# https://adblock.ee/list.php?hostformat=adblockplus&showintro=1&mimetype=plaintext; unexpected status code 404
 
 # 7) eg sa ma dz: Liste AR
 https://easylist-downloads.adblockplus.org/liste_ar.txt
@@ -212,9 +212,9 @@ https://raw.githubusercontent.com/easylist/ruadlist/master/advblock/adservers.tx
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt
 
 # additional
-https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Swedish/swe-ubo-filters.txt
+# https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Swedish/swe-ubo-filters.txt; unexpected status code 404
 
-https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/i-dont-want-your-app.txt
+# https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/i-dont-want-your-app.txt; unexpected status code 404
 
 # 33) si: Slovenian List
 https://raw.githubusercontent.com/betterwebleon/slovenian-list/master/filters.txt
@@ -283,7 +283,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLSho
 # 3) From Yokoffing's Recommendation
 
 ## 1) Privacy (4/4)
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt
+# https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt; unexpected status code 404
 https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
 https://raw.githubusercontent.com/stephenhawk8054/PrivacyExtended/main/privacy_extended.txt
